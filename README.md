@@ -108,6 +108,12 @@ This project demonstrates the application of machine learning techniques for det
 
 ---
 
+## 📸 Results
+
+![Results](results.png)
+
+---
+
 ## 👨‍💻 Author
 
 Adarsh Patane
